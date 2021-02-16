@@ -4674,3 +4674,4 @@ Processing by Admin::StatsController#index as HTML
 Completed 200 OK in 52ms (Views: 39.9ms | ActiveRecord: 1.6ms)
 
 
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/confident-procedure-7882/namespaced-routes-reading-online-web-sp-000/config/environment.rb:5)
